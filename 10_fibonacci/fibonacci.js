@@ -5,6 +5,7 @@ const fibonacci = function(term) {
     {
         return "OOPS";
     }
+
     
     if (term === 1)
     {
